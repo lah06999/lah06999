@@ -43,14 +43,7 @@ Automated headless execution of AI tasks:
 - Returns status/results via JSON  
 - Runs on AWS Lambda (serverless)
 
----
 
-📈 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react" alt="Abdullah's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react" alt="GitHub Streak" />
-</p>
 
 ---
 
